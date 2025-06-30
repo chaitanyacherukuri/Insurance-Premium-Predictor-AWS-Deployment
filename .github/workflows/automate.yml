@@ -5,7 +5,7 @@ name: Continous Integration for Insurance Premium Predictor API
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   build:
