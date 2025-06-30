@@ -1,0 +1,1 @@
+In this project, we have built an API for an **Insurance Premium Predictor ML Model**. The API takes in user input and returns the predicted insurance premium category, confidence score, and probability distribution across all possible classes.
